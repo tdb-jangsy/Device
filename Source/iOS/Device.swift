@@ -85,6 +85,7 @@ open class Device {
             case "iPhone18,5":                               return .iPhone17e
             case "iPhone19,2":                               return .iPhone18Pro
             case "iPhone19,3":                               return .iPhone18Pro_Max
+            case "iPhone19,4":                               return .iPhoneDuo
 
             /*** iPad ***/
             case "iPad1,1", "iPad1,2":                       return .iPad1
